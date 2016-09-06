@@ -25,3 +25,16 @@ Stack.prototype.peek = function() {
         return null;
     }
 };
+
+var s = new Stack();
+
+s.push("Hello");
+s.push("How are you?");
+
+console.log(s.peek());
+
+console.log(s.pop());
+
+console.log(s.pop());
+
+console.log(s.peek());
