@@ -26,6 +26,8 @@ Stack.prototype.peek = function() {
     }
 };
 
+module.exports = new Stack();
+
 var s = new Stack();
 
 s.push("Hello");
