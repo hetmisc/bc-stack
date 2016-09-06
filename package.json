@@ -1,0 +1,19 @@
+{
+  "name": "bc-stack",
+  "version": "1.0.0",
+  "description": "Stack class",
+  "main": "Stack.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hetmisc/bc-stack.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hetmisc/bc-stack/issues"
+  },
+  "homepage": "https://github.com/hetmisc/bc-stack#readme"
+}
